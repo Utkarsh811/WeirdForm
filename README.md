@@ -1,3 +1,13 @@
+A famous leetcode question "JUMP GAME 2" based problem statement solution.
+I used React ,javascript to solve the problem.
+Time complexity my logic taking is O(n).
+The problem solutuion code can be seen in Calculation.jsx file.
+I constructed a React form and take input size of array and array from the user by using input tag and on submitting the form , you can see the answer in alert message.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
