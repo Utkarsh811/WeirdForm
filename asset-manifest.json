@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WeirdForm/static/css/main.7d309da5.css",
+    "main.js": "/WeirdForm/static/js/main.bab2ac75.js",
+    "static/js/787.8b43062c.chunk.js": "/WeirdForm/static/js/787.8b43062c.chunk.js",
+    "index.html": "/WeirdForm/index.html",
+    "main.7d309da5.css.map": "/WeirdForm/static/css/main.7d309da5.css.map",
+    "main.bab2ac75.js.map": "/WeirdForm/static/js/main.bab2ac75.js.map",
+    "787.8b43062c.chunk.js.map": "/WeirdForm/static/js/787.8b43062c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d309da5.css",
+    "static/js/main.bab2ac75.js"
+  ]
+}
